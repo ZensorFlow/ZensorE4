@@ -1,0 +1,16 @@
+PODS:
+  - ZensorE4 (0.0.1)
+
+DEPENDENCIES:
+  - ZensorE4 (from `../ZensorE4`)
+
+EXTERNAL SOURCES:
+  ZensorE4:
+    :path: "../ZensorE4"
+
+SPEC CHECKSUMS:
+  ZensorE4: 9c5477d896121c8cb864617f63ab0896b73602b7
+
+PODFILE CHECKSUM: db46a8f6f9c286917f778a3ab2b9dfd83aa2986e
+
+COCOAPODS: 1.11.3

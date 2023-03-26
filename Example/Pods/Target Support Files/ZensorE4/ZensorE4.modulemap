@@ -1,0 +1,6 @@
+framework module ZensorE4 {
+  umbrella header "ZensorE4-umbrella.h"
+
+  export *
+  module * { export * }
+}
