@@ -1,0 +1,11 @@
+framework module ZensorE4 {
+  umbrella header "ZensorE4.h"
+
+  export *
+  module * { export * }
+}
+
+module ZensorE4.Swift {
+  header "ZensorE4-Swift.h"
+  requires objc
+}

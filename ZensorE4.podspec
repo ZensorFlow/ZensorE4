@@ -9,14 +9,14 @@ Pod::Spec.new do |spec|
 
   spec.name         = "ZensorE4"
   spec.version      = "0.0.1"
-  spec.summary      = "iOS library for connecting to Empatica E4 device"
+  spec.summary      = "connect Empatica E4 device"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  spec.description  = "connecting to Empatica E4 device"
+  spec.description  = "iOS library for connecting to Empatica E4 device"
 
   spec.homepage     = "https://github.com/ZensorFlow/ZensorE4"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -55,7 +55,7 @@ Pod::Spec.new do |spec|
   #
 
   # spec.platform     = :ios
-spec.platform     = :ios, "9.0"
+spec.platform     = :ios, "11.0"
 
   #  When using multiple platforms
   # spec.ios.deployment_target = "5.0"
